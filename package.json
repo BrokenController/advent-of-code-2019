@@ -1,0 +1,28 @@
+{
+  "name": "adventofcode-2019",
+  "version": "1.0.0",
+  "description": "Codes for adventofcode 2019 event",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello_traveler"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrokenController/advent-of-code-2019.git"
+  },
+  "keywords": [
+    "adventofcode",
+    "2019",
+    "lul"
+  ],
+  "author": "Miroslav Vlodarčík",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrokenController/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/BrokenController/advent-of-code-2019#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.88.0"
+  }
+}
